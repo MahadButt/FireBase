@@ -1,0 +1,4 @@
+{
+	// manifest.json is used to receive messages on browser.
+  "gcm_sender_id": "103953800507"
+}
